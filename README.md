@@ -6,7 +6,7 @@
 
 **Dependencies**
 
-Bootstrap https://getbootstrap.com
+Bootstrap | https://getbootstrap.com
 
 **Build**
 
