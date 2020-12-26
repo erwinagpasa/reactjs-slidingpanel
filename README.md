@@ -4,6 +4,10 @@
 
 **Demo**
 
+**Dependencies**
+
+Bootstrap (https://getbootstrap.com)
+
 **Build**
 
 Install Netlify
